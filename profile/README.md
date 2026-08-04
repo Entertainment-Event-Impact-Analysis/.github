@@ -198,9 +198,10 @@ ERS를 통해
 
 # 📊 Tableau Dashboard
 
-<img width="2159" height="1535" alt="image" src="https://github.com/user-attachments/assets/05eeffeb-2fc1-46ff-8d18-7499372d887c" />
+<img width="2159" height="1535" alt="OVERVIEW (1) (1)" src="https://github.com/user-attachments/assets/da5360cb-9a16-4f94-bb70-3ab371cfeb27" />
 
-최종 결과는 **Tableau Public**을 활용하여 인터랙티브 대시보드로 구현.
+
+최종 결과는 **Tableau Public**을 활용하여 인터랙티브 대시보드로 구현
 
 ### 주요 기능
 
